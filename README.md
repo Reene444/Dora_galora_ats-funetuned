@@ -8,7 +8,7 @@ This approach improved training stability while maintaining model performance.
 
 The `fine_tune_resume_dora.py` script supports:
 - DoRA
-- Gradient clipping for training stability
+- Gradient clipping 
 - Float16 precision optimization
 - training monitoring and logging
 
